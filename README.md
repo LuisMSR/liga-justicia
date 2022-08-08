@@ -9,5 +9,5 @@ Pueden hacer lo que quieran...
 ### Actualizado desde GitHub
 Este es un mensaje para README.md actualizado desde Github!!!
 
-#### Actualización Dell Preciosion
+#### Actualización Dell Preciosion 
 Descarga y clonación en equipo DELL
